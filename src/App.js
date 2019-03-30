@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch} from 'react-router-dom';
 import './App.css';
 
 import { GenRep, TechRep } from './pages';
+import { Dictaphone } from './components';
 
 class App extends Component {
   render() {
